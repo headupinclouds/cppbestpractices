@@ -25,6 +25,7 @@ Use an industry standard widely accepted build tool. This prevents you from rein
  * [C++ Archive Network (CPPAN)](https://cppan.org/) - a crossplatform dependency manager for C++
  * [Waf](https://waf.io/)
  * [FASTBuild](http://www.fastbuild.org/)
+ * [hunter](https://github.com/ruslo/hunter) - CMake driven cross-platform package manager for C/C++
  * [Ninja](https://ninja-build.org/) - can greatly improve the incremental build time of your larger projects. Can be used as a target for CMake.
  * [Bazel](http://bazel.io/) - Note: MacOS and Linux only.
  * [gyp](https://chromium.googlesource.com/external/gyp/) - Google's build tool for chromium.
